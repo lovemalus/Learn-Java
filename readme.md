@@ -1,0 +1,1 @@
+This is a example for learn core java.
