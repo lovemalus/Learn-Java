@@ -1,5 +1,4 @@
 # Default ignored files
-/.idea/workspace.xml
 out/*
-/.idea/codeStyles/*
+.idea
 Learn-Java.iml
