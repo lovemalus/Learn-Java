@@ -4,14 +4,14 @@
  * @author: Phanzo
  * @create: 2020-04-05 21:38
  */
-public class practice {
+public class Blastoff {
 
     public static void main(String[] args){
-        Blastoff();
+        BlastoffTool();
     }
 
     //This is a Blastoff gadget.
-    public static void Blastoff(){
+    public static void BlastoffTool(){
         for (int i = 10; i > 0; i--)
             System.out.println("Count down ... " + i);
         System.out.println("Blastoff!");
